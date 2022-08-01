@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @abdulrahmansw88 (Abdul Rahman)
 - 👀 I’m interested in learning new and emerging Technology Skills
-- 🌱 I’m currently learning Google's Flutter and Dart Mobile App Development
+- 🌱 Professional Flutetr Mobile application developer 
+-🌱 Android application developer
+-🌱 iOS application developer
+-🌱 Publish iOS mobile application to app Store and android application to Google Play Store
 - 📫 How to reach me vai Email : abdulrahmansw88@gmail.com
 
 <!---
