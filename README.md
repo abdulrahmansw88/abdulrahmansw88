@@ -3,7 +3,7 @@
 - 🌱 Professional Flutetr Mobile application developer 
 -🌱 Android application developer
 -🌱 iOS application developer
--🌱 Publish iOS mobile application to app Store and android application to Google Play Store
+-🌱 I can Publish iOS mobile application to app Store and android application to Google Play Store
 - 📫 How to reach me vai Email : abdulrahmansw88@gmail.com
 
 <!---
