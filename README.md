@@ -4,7 +4,7 @@
 -🌱 Android application developer
 -🌱 iOS application developer
 -🌱 I can Publish iOS mobile application to app Store and android application to Google Play Store
-- 📫 How to reach me vai Email : abdulrahmansw88@gmail.com
+- 📫 How to reach me vai Email : slash.rehman@gmail.com
 
 <!---
 abdulrahmansw88/abdulrahmansw88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
